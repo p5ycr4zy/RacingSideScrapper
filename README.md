@@ -5,3 +5,4 @@ This script connects to http://www.racingandsports.com.au/form-guide/. Then step
 
 Used Libraries: BeatifulSoup and Mechanize
 Language: Python
+Output is saved in a CSV file.
