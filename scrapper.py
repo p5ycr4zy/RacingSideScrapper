@@ -15,7 +15,7 @@ import re
 
 def main():
     # Landing page URL as specified
-    SEARCH_URL = 'http://www.racingandsports.com.au/form-guide/'
+    SEARCH_URL = 'http://www.racingandsports.com/form-guide/'
     br = Browser()  #Initiating browser
 
     br.set_handle_robots(False) # To tackle robot.txt
